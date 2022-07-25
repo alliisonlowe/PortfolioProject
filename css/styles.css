@@ -4,3 +4,10 @@ body{
 H1{
     text-align: center;
 }
+.image {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    height: 1000px;
+    object-fit: cover;
+    }
